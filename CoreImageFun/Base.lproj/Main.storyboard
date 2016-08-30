@@ -18,13 +18,14 @@
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="image" translatesAutoresizingMaskIntoConstraints="NO" id="zm4-MP-ZA2">
-                                <rect key="frame" x="140" y="20" width="320" height="213"/>
+                                <rect key="frame" x="0.0" y="20" width="600" height="213"/>
                             </imageView>
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
                         <constraints>
                             <constraint firstItem="zm4-MP-ZA2" firstAttribute="top" secondItem="y3c-jy-aDJ" secondAttribute="bottom" id="RFr-Yg-C6C"/>
                             <constraint firstItem="zm4-MP-ZA2" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="iv3-XU-oYh"/>
+                            <constraint firstItem="zm4-MP-ZA2" firstAttribute="width" secondItem="8bC-Xf-vdC" secondAttribute="width" id="zAU-sJ-fLo"/>
                         </constraints>
                     </view>
                     <connections>

@@ -12,6 +12,7 @@
 		BF18F8DD1D75D4E4008907B2 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BF18F8DB1D75D4E4008907B2 /* Main.storyboard */; };
 		BF18F8DF1D75D4E4008907B2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BF18F8DE1D75D4E4008907B2 /* Assets.xcassets */; };
 		BF18F8E21D75D4E4008907B2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BF18F8E01D75D4E4008907B2 /* LaunchScreen.storyboard */; };
+		BF18F8EA1D75D8BF008907B2 /* image.png in Resources */ = {isa = PBXBuildFile; fileRef = BF18F8E91D75D8BF008907B2 /* image.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		BF18F8DE1D75D4E4008907B2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BF18F8E11D75D4E4008907B2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		BF18F8E31D75D4E4008907B2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BF18F8E91D75D8BF008907B2 /* image.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = image.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				BF18F8D71D75D4E4008907B2 /* AppDelegate.swift */,
 				BF18F8D91D75D4E4008907B2 /* ViewController.swift */,
 				BF18F8DB1D75D4E4008907B2 /* Main.storyboard */,
+				BF18F8E91D75D8BF008907B2 /* image.png */,
 				BF18F8DE1D75D4E4008907B2 /* Assets.xcassets */,
 				BF18F8E01D75D4E4008907B2 /* LaunchScreen.storyboard */,
 				BF18F8E31D75D4E4008907B2 /* Info.plist */,
@@ -125,6 +128,7 @@
 				BF18F8E21D75D4E4008907B2 /* LaunchScreen.storyboard in Resources */,
 				BF18F8DF1D75D4E4008907B2 /* Assets.xcassets in Resources */,
 				BF18F8DD1D75D4E4008907B2 /* Main.storyboard in Resources */,
+				BF18F8EA1D75D8BF008907B2 /* image.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -286,6 +290,7 @@
 				BF18F8E81D75D4E4008907B2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
